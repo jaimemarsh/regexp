@@ -1,6 +1,4 @@
 # How to write a phone number in a regular expression
-
-
 A regular expression works for all programming languages. It uses special code to detect patterns in strings of text according to defined rules the coder sets for the user. This can be useful for emails, username, passwords, or what we will be going over today: a phone number.
 
 
